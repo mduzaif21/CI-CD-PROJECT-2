@@ -9,5 +9,5 @@ module "web_server_2" {
     source = "./modules/ec2"
 
     instance_type = "c7i-flex.large"
-    server_name  = "web_server_9"
+    server_name  = "web_server_7"
 }
